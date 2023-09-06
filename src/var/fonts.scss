@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;700&display=swap");
+
+$font-family-regular: 'Raleway', serif;
+
+/* Estilos reales usando las variables */
+h1 {
+  font-family: $font-family-regular;
+  font-size: $title-size;
+}
+
+h2 {
+  font-family: $font-family-regular;
+  font-size: $subtitle-size;
+}
+
+p {
+  font-family: $font-family-regular;
+  font-size: $paragraph-size;
+}
