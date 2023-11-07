@@ -50,7 +50,7 @@ a.lista-header-item {
   /* Estilos para pantalla en modo vertical */
 }
 /*about*/
-section#about {
+section#section-about {
   display: flex;
   gap: 2em;
 }
@@ -67,7 +67,7 @@ picture.container-img {
   justify-content: center;
 }
 /*proyect*/
-section#proyects {
+section#section-proyects {
   display: flex;
   flex-wrap: wrap;
 }
@@ -76,4 +76,8 @@ section#proyects {
   display: flex;
   gap: 1em;
   flex-direction: column;
+}
+section#section-other-post {
+  display: flex;
+  gap: 1em;
 }
