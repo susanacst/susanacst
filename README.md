@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🎀 Frontend Dev 🎀<br>🌙Explorando el backend y creando cositas mágicas en la web 🌙<br>✨ Aquí comparto proyectos, ideas y experimentos digitales  ✨</p>
+<p align="center">🎀 Frontend Dev 🎀<br>🌙Exploring the backend and creating little magical things for the web 🌙<br>✨ Here I share projects, ideas, and digital experiments  ✨</p>
 
 ###
 
